@@ -13,6 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     sel_func = str(input('기능선택 :'))
     print(sel_func)
-
+    print('git_hub')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
