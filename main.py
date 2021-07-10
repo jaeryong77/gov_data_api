@@ -15,5 +15,6 @@ if __name__ == '__main__':
     print(sel_func)
     print('git_hub')
     print('pycharm')
+    print('git_again')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
